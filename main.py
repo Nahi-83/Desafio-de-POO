@@ -1,6 +1,6 @@
 from object import Dron
 
-modelo = input("Ingrese el modelo del dron: ")
+modelo = input("Ingresá el modelo del dron: ")
 alturaMax = float(input("Ingrese la altura máxima que puede volar el dron: "))
 bateria = int(input("Carga de la batería (0-100): "))
 camara = input("¿Tiene cámara? (si/no): ").lower() #.lower para que sin importar como se escriba si o no se ejecute el programa sin problemas.
