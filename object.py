@@ -30,7 +30,7 @@ class Dron:
 
     def activarCamara(self):
         if self.__camara == "sin cámara":
-            return "Este dron no tiene cámara."
+            return "Este dron no cuenta con cámara."
         else:
             return "Cámara activada y grabando."
 

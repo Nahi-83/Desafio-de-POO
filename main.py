@@ -16,7 +16,7 @@ while True:
     print("MENÚ DEL DRON")
     print("1. Ver datos del dron")
     print("2. Volar")
-    print("3. Sector para Cargar batería")
+    print("3. Sector para recargar la batería")
     print("4. Activar la cámara")
     print("5. Salir")
 
