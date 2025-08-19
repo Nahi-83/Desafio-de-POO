@@ -1,5 +1,7 @@
 from object import Dron
 
+print("HOLA SOY RO")
+
 modelo = input("Ingresá el modelo del dron: ")
 alturaMax = float(input("Ingrese la altura máxima que puede volar el dron: "))
 bateria = int(input("Carga de la batería (0-100): "))
